@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarpratapsinhNakoom currently an undergrad from IIIT SURAT
-- 👀 I’m interested in Full Stack We Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Open Source on any personal projects
 - 📫 Reach me through my mail : ui20cs26@iiitsurat.ac.in
