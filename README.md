@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HarpratapsinhNakoom currently an undergrad from IIIT SURAT
-- 👀 I haveb a good grasp in Full Stack Web Development using MERN stack
+- 👀 I have a good grasp in Full Stack Web Development using MERN stack
 - 🌱 I’m currently learning Machine Learning and AI
 - 💞️ I’m looking to collaborate on Open Source on any personal projects
 - 📫 Reach me through my mail : ui20cs26@iiitsurat.ac.in
